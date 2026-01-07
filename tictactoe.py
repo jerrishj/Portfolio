@@ -48,7 +48,7 @@ def checkRow(board):
         winner = board[1]
         return True
     elif board[2] == board[5] == board[8] and board[2] != "-":
-        winner = board[2]   # ✅ correct
+        winner = board[2]   
         return True
 
 

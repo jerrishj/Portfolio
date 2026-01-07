@@ -1,4 +1,4 @@
-# Jerrish Jebaraj – Software Projects
+# Jerrish Jacob Jebaraj – Coding Projects
 
 This repository contains selected programming projects demonstrating
 problem-solving, clean code, and core computer science concepts.
